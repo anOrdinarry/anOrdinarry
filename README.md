@@ -2,7 +2,10 @@
 
 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=anOrdinarry.anOrdinarry">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=anOrdinarry&theme=graywhite&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=anOrdinarry&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&show_icons=true">
+
+<img align="right" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anOrdinarry&hide_title=true&hide_border=true&layout=compact&bg_color=FFC0CB,FC466B,D783FF,00BFFF&theme=graywhite&locale=cn" />
+
 
 ### Languages and Frameworks
 
