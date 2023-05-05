@@ -6,6 +6,7 @@
 
 <img align="right" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anOrdinarry&hide_title=true&hide_border=true&layout=compact&bg_color=FFC0CB,FC466B,D783FF,00BFFF&theme=graywhite&locale=cn" />
 
+<br>
 
 ### Languages and Frameworks
 
